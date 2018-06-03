@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<autoTransition
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:interpolator/fast_out_slow_in"
+    android:duration="300"
+    android:transitionOrdering="together">
+
+    <!--<changeBounds android:duration="250">-->
+        <!--<targets>-->
+            <!--<target android:targetId="@id/root" />-->
+        <!--</targets>-->
+    <!--</changeBounds>-->
+
+    <!--<changeBounds-->
+        <!--android:duration="170"-->
+        <!--android:startDelay="30">-->
+        <!--<targets>-->
+            <!--<target android:targetId="@id/tvContent" />-->
+        <!--</targets>-->
+    <!--</changeBounds>-->
+
+    <!--<transitionSet android:duration="170">-->
+        <!--<targets>-->
+            <!--<target android:targetId="@id/imgvContent" />-->
+        <!--</targets>-->
+        <!--<changeBounds />-->
+        <!--<changeTransform />-->
+    <!--</transitionSet>-->
+
+    <!--<fade-->
+        <!--android:startDelay="200"-->
+        <!--android:duration="50" />-->
+
+</autoTransition>

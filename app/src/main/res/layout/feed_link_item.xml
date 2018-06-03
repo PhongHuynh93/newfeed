@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" android:paddingBottom="16dp">
+
+    <ImageView
+        android:id="@+id/imgvHeader"
+        android:layout_width="42dp" android:layout_height="42dp"
+        android:layout_marginStart="16dp" android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@color/sunflower_yellow"/>
+    <TextView
+        android:id="@+id/tvHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp" android:text="Zing MP3"
+        app:layout_constraintStart_toEndOf="@+id/imgvHeader"
+        app:layout_constraintTop_toTopOf="@+id/imgvHeader"/>
+    <TextView
+        android:id="@+id/tvSubHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp" android:text="1 ngày trước"
+        android:textAppearance="@style/TextAppearance.H5"
+        app:layout_constraintStart_toStartOf="@+id/tvHeader"
+        app:layout_constraintTop_toBottomOf="@+id/tvHeader"/>
+    <android.support.constraint.Barrier android:id="@+id/barrier2"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        app:barrierDirection="bottom"
+                                        app:constraint_referenced_ids="imgvHeader,tvSubHeader"
+                                        tools:layout_editor_absoluteY="567dp"/>
+    <TextView
+        android:id="@+id/tvContent"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp" android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:text="Zing Music Awards là giải thưởng âm nhạc trực tuyến thường niên do Zing MP3 tổ chức, nhằm tôn vinh nỗ lực của các nghệ sĩ, phản ánh thị hiếu khán giả và bức tranh toàn cảnh của thị trường âm nhạc trực tuyến."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/barrier2"/>
+    <ImageView
+        android:id="@+id/imgvContent"
+        android:layout_width="0dp" android:layout_height="180dp"
+        android:layout_marginEnd="16dp" android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvContent"
+        app:srcCompat="@color/sunflower_yellow"/>
+</android.support.constraint.ConstraintLayout>

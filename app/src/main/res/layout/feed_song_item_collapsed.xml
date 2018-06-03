@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="16dp">
+
+    <include layout="@layout/feed_song_item"/>
+
+    <TextView
+        android:id="@+id/tvContent"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp" android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:text="Em từng là duy nhất  Là cả khoảng trời trong anh  Nhưng đến bây giờ anh vẫn như vậy  Chỉ là cần một khoảng trống  Yêu chậm lại một chút  Để biết ta cần nhau hơn  Anh cũng rất sợ ta phải xa nhau  Nhưng tình yêu không như lúc trước  Đừng để thời gian bên nhau là thói quen  Là ở cạnh bên nhưng rất xa xôi  Từng ngày cảm giác trong tim cứ thế phai đi  Lạc nhau ta đâu có hay "
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/barrier2"/>
+
+</android.support.constraint.ConstraintLayout>

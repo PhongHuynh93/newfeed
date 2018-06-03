@@ -1,0 +1,328 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "items": [
+      {
+        "id": 217941,
+        "title": "Evolve  - Imagine Dragons | Zing MP3",
+        "type": 6,
+        "description": [
+          {
+            "language": {
+              "languageId": 44,
+              "languageSymbol": "en"
+            },
+            "content": "Something about the way that you \nWalked into my living room \nCasually and confident \nLookin ' at the mess I am \nBut still you, still you want me"
+          }
+        ],
+        "location": 2,
+        "countries": "82,81,86",
+        "publisherId": 1,
+        "thumbnail": "https://zmp3-photo-fbcrawler.zadn.vn/thumb/600_600/covers/a/e/ae2e2a22f8976f5bc70c23b793fd0d96_1497578170.jpg",
+        "publisherName": "Zing MP3",
+        "shortDesc": "",
+        "modifiedDate": 1527150139,
+        "createdDate": 1527072208,
+        "content": {
+          "albumInfo": {
+            "id": 1090826055,
+            "title": "Evolve",
+            "artId": "22222",
+            "art": "Imagine Dragons",
+            "desc": "℗ 2017 KIDinaKORNER/Interscope Records",
+            "thumb": "http://zmp3-photo.zadn.vn/covers/a/e/ae2e2a22f8976f5bc70c23b793fd0d96_1497578170.jpg",
+            "contentOwner": "Unknown Provider",
+            "zId": 0,
+            "isOfficial": true,
+            "isHit": true,
+            "isWorld": false,
+            "releaseDate": "2017",
+            "status": 1,
+            "gId": "3,195",
+            "gName": "Âu Mỹ,Alternative",
+            "isAlbum": true,
+            "userId": 255,
+            "bgImage": "",
+            "username": "Zing MP3",
+            "link": "https://mp3.zing.vn/album/Evolve-Imagine-Dragons/ZOZDFFC7.html",
+            "totalSong": 16,
+            "songs": {
+              "items": [
+                {
+                  "id": 1078054900,
+                  "title": "Next To Me",
+                  "artId": "22222",
+                  "art": "Imagine Dragons",
+                  "username": "",
+                  "lrcId": "7031622",
+                  "dwnStatus": 4,
+                  "adsDis": false,
+                  "isOfficial": true,
+                  "duration": 230,
+                  "lrc": "http://static.mp3.zdn.vn/lyrics/c/c/2/5/cc25933469db8e7777631500e666de17.lrc",
+                  "thumb": "http://zmp3-photo.zadn.vn/thumb/240_240/covers/1/e/1e2187ea9327d721569a1d77d940981a_1519358579.jpg",
+                  "hasVideo": false,
+                  "albumId": "1096565093,1090826055",
+                  "gId": "3,195",
+                  "gName": "Âu Mỹ,Alternative",
+                  "cName": "Unknown",
+                  "releaseDate": null,
+                  "contentOwner": "UMG",
+                  "status": 1,
+                  "streamingStatus": 3,
+                  "isWorld": false,
+                  "album": "Next To Me (Single)",
+                  "link": "https://mp3.zing.vn/bai-hat/Next-To-Me-Imagine-Dragons/ZW9BW07U.html",
+                  "hasDwnType": "128,320,64",
+                  "modifiedDate": 1519358834
+                },
+                {
+                  "id": 1076291622,
+                  "title": "I Don't Know Why",
+                  "artId": "22222",
+                  "art": "Imagine Dragons",
+                  "username": "",
+                  "lrcId": "5063464",
+                  "dwnStatus": 4,
+                  "adsDis": false,
+                  "isOfficial": true,
+                  "duration": 190,
+                  "lrc": "http://static.mp3.zdn.vn/lyrics/2017/07/24/0ca3f508f99c687bd38942c97b593cd9_1076291622.lrc",
+                  "thumb": "http://zmp3-photo.zadn.vn/thumb/240_240/covers/a/e/ae2e2a22f8976f5bc70c23b793fd0d96_1497578170.jpg",
+                  "hasVideo": false,
+                  "albumId": "1090826055",
+                  "gId": "3,195",
+                  "gName": "Âu Mỹ,Alternative",
+                  "cName": "Unknown",
+                  "releaseDate": null,
+                  "contentOwner": "UMG",
+                  "status": 1,
+                  "streamingStatus": 3,
+                  "isWorld": false,
+                  "album": "Evolve",
+                  "link": "https://mp3.zing.vn/bai-hat/I-Don-t-Know-Why-Imagine-Dragons/ZW80O8A6.html",
+                  "hasDwnType": "lossless,128,320,64",
+                  "modifiedDate": 1498097449
+                },
+                {
+                  "id": 1076239456,
+                  "title": "Whatever It Takes",
+                  "artId": "22222",
+                  "art": "Imagine Dragons",
+                  "username": "",
+                  "lrcId": "5050484",
+                  "dwnStatus": 4,
+                  "adsDis": false,
+                  "isOfficial": true,
+                  "duration": 201,
+                  "lrc": "http://static.mp3.zdn.vn/lyrics/2017/05/26/3971b6e98086fbe506046c6a34ad0b07_1076239456.lrc",
+                  "thumb": "http://zmp3-photo.zadn.vn/thumb/240_240/covers/a/e/ae2e2a22f8976f5bc70c23b793fd0d96_1497578170.jpg",
+                  "hasVideo": true,
+                  "albumId": "1090826055,1090510895,1073931812",
+                  "gId": "3,195",
+                  "gName": "Âu Mỹ,Alternative",
+                  "cName": "Unknown",
+                  "releaseDate": null,
+                  "contentOwner": "UMG",
+                  "status": 1,
+                  "streamingStatus": 3,
+                  "isWorld": false,
+                  "album": "Evolve",
+                  "link": "https://mp3.zing.vn/bai-hat/Whatever-It-Takes-Imagine-Dragons/ZW7F6CE0.html",
+                  "hasDwnType": "lossless,128,320,64",
+                  "modifiedDate": 1494315815
+                },
+                {
+                  "id": 1075825513,
+                  "title": "Believer",
+                  "artId": "22222",
+                  "art": "Imagine Dragons",
+                  "username": "",
+                  "lrcId": "5063465,5014887",
+                  "dwnStatus": 4,
+                  "adsDis": false,
+                  "isOfficial": true,
+                  "duration": 204,
+                  "lrc": "http://static.mp3.zdn.vn/lyrics/2017/05/24/531478fdf38cd8556a8969aa49d3d3e7_1075825513.lrc",
+                  "thumb": "http://zmp3-photo.zadn.vn/thumb/240_240/covers/a/e/ae2e2a22f8976f5bc70c23b793fd0d96_1497578170.jpg",
+                  "hasVideo": true,
+                  "albumId": "1090826055,1089739787,1089739787,1089739787,1089739787,1089739787,1089739787,1089739787,1089739787,1089739787",
+                  "gId": "3,195",
+                  "gName": "Âu Mỹ,Alternative",
+                  "cName": "Unknown",
+                  "releaseDate": null,
+                  "contentOwner": "UMG",
+                  "status": 1,
+                  "streamingStatus": 3,
+                  "isWorld": false,
+                  "album": "Evolve",
+                  "link": "https://mp3.zing.vn/bai-hat/Believer-Imagine-Dragons/ZW79IBE9.html",
+                  "hasDwnType": "lossless,128,320,64",
+                  "modifiedDate": 1485937454
+                },
+                {
+                  "id": 1076283634,
+                  "title": "Walking The Wire",
+                  "artId": "22222",
+                  "art": "Imagine Dragons",
+                  "username": "",
+                  "lrcId": "5062173",
+                  "dwnStatus": 4,
+                  "adsDis": false,
+                  "isOfficial": true,
+                  "duration": 233,
+                  "lrc": "http://static.mp3.zdn.vn/lyrics/2017/06/22/c3bdc816a95fa5b3bb0d3fec36f9f3b5_1076283634.lrc",
+                  "thumb": "http://zmp3-photo.zadn.vn/thumb/240_240/covers/a/e/ae2e2a22f8976f5bc70c23b793fd0d96_1497578170.jpg",
+                  "hasVideo": false,
+                  "albumId": "1090826055,1090860279",
+                  "gId": "3,195",
+                  "gName": "Âu Mỹ,Alternative",
+                  "cName": "Unknown",
+                  "releaseDate": null,
+                  "contentOwner": "UMG",
+                  "status": 1,
+                  "streamingStatus": 3,
+                  "isWorld": false,
+                  "album": "Evolve",
+                  "link": "https://mp3.zing.vn/bai-hat/Walking-The-Wire-Imagine-Dragons/ZW80I97W.html",
+                  "hasDwnType": "lossless,128,320,64",
+                  "modifiedDate": 1497578216
+                }
+              ],
+              "lastIndex": 5,
+              "isMore": true,
+              "total": 16
+            }
+          },
+          "assetType": 3,
+          "extraData": ""
+        },
+        "likes": 0
+      },
+      {
+        "id": 217940,
+        "title": "[MV] Thấy Là Yêu Thương  - OnlyC, Lou Hoàng | Zing MP3",
+        "type": 6,
+        "description": [
+          {
+            "language": {
+              "languageId": 84,
+              "languageSymbol": "vi"
+            },
+            "content": "Ngày yêu xa ai chờ đợi ai nhưng hoài không thấy bóng \nĐợi nghe tiếng nói chất chứa những tâm tư sâu trong lòng \nNgày yêu xa ai giận hờn ai vô tình không nhấc máy \nĐể cho những ấm ức nhức nhối dâng lên nơi tim này"
+          }
+        ],
+        "location": 1,
+        "countries": "84,82",
+        "publisherId": 1,
+        "thumbnail": "https://zmp3-photo-fbcrawler.zadn.vn/thumb_video/d/8/d802de0e84de52326e3cbf54d573a1db_1510985251.jpg",
+        "publisherName": "Zing MP3",
+        "shortDesc": "",
+        "modifiedDate": 1527072051,
+        "createdDate": 1527072051,
+        "content": {
+          "videoInfo": {
+
+          },
+          "assetType": 2,
+          "extraData": ""
+        },
+        "likes": 0
+      },
+      {
+        "id": 217939,
+        "title": "Đừng Như Thói Quen  - JayKii, Sara Lưu | Zing MP3",
+        "type": 6,
+        "description": [
+          {
+            "language": {
+              "languageId": 84,
+              "languageSymbol": "vi"
+            },
+            "content": "Em từng là duy nhất \nLà cả khoảng trời trong anh \nNhưng đến bây giờ anh vẫn như vậy \nChỉ là cần một khoảng trống"
+          }
+        ],
+        "location": 1,
+        "countries": "84",
+        "publisherId": 1,
+        "thumbnail": "https://zmp3-photo-fbcrawler.zadn.vn/thumb/600_600/cover/0/8/5/3/0853118a8d14808d8526bc717409ac90.jpg",
+        "publisherName": "Zing MP3",
+        "shortDesc": "",
+        "modifiedDate": 1527071996,
+        "createdDate": 1527071996,
+        "content": {
+          "songInfo": {
+            "id": 1078112849,
+            "title": "Đừng Như Thói Quen",
+            "artId": "430157,604727",
+            "art": "JayKii, Sara Lưu",
+            "username": "",
+            "lrcId": "7037607,7040205,7039671,7038347,7037789",
+            "dwnStatus": 1,
+            "adsDis": false,
+            "isOfficial": true,
+            "duration": 266,
+            "lrc": "http://static.mp3.zdn.vn/lyrics/e/6/a/b/e6ab3e778bc137df7c00e123ce5166cb.lrc",
+            "thumb": "http://zmp3-photo.zadn.vn/thumb/240_240/cover/0/8/5/3/0853118a8d14808d8526bc717409ac90.jpg",
+            "hasVideo": false,
+            "albumId": "1097419138",
+            "gId": "1,8",
+            "gName": "Việt Nam,Nhạc Trẻ",
+            "cName": "Dương Khắc Linh, Hoàng Huy Long, JayKii",
+            "releaseDate": null,
+            "contentOwner": "Zing",
+            "status": 1,
+            "streamingStatus": 1,
+            "isWorld": true,
+            "album": "Đừng Như Thói Quen (Single)",
+            "link": "https://mp3.zing.vn/bai-hat/Dung-Nhu-Thoi-Quen-JayKii-Sara-Luu/ZW9C0WDI.html",
+            "hasDwnType": "lossless,128,320,64",
+            "modifiedDate": 1526440344,
+            "plays": 134236125
+          },
+          "assetType": 1,
+          "extraData": ""
+        },
+        "likes": 1
+      },
+      {
+        "id": 217938,
+        "title": "Giải thưởng | Zing Music Awards 2017",
+        "type": 5,
+        "description": [
+          {
+            "language": {
+              "languageId": 84,
+              "languageSymbol": "vi"
+            },
+            "content": "Zing Music Awards là giải thưởng âm nhạc trực tuyến thường niên do Zing MP3 tổ chức, nhằm tôn vinh nỗ lực của các nghệ sĩ, phản ánh thị hiếu khán giả và bức tranh toàn cảnh của thị trường âm nhạc trực tuyến."
+          }
+        ],
+        "location": 1,
+        "countries": "84,86",
+        "publisherId": 1,
+        "thumbnail": "http://zmp3-static.zadn.vn/skins/zmp3-v5.1/zma/2017//images/upload/zma2017_1.jpg",
+        "publisherName": "Zing MP3",
+        "shortDesc": "",
+        "modifiedDate": 1527071921,
+        "createdDate": 1527071921,
+        "content": {
+          "link": "https://awards.zing.vn/giai-thuong",
+          "source": "awards.zing.vn",
+          "linkTitle": "Giải thưởng | Zing Music Awards 2017",
+          "linkDescription": "Zing Music Awards là giải thưởng âm nhạc trực tuyến thường niên do Zing MP3 tổ chức, nhằm tôn vinh nỗ lực của các nghệ sĩ, phản ánh thị hiếu khán giả và bức tranh toàn cảnh của thị trường âm nhạc trực tuyến.",
+          "extraData": ""
+        },
+        "likes": 0
+      }
+    ],
+    "lastIndex": 10,
+    "isMore": false,
+    "total": 4,
+    "likedIds": [
+      217939
+    ]
+  },
+  "timestamp": 1527944248110
+}
